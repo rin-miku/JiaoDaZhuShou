@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">交大助手</string>
+    <string name="account_hint">请输入学号</string>
+    <string name="password_hint">请输入MIS系统密码</string>
+
+    <string name="login">登录</string>
+</resources>
